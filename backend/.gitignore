@@ -1,0 +1,9 @@
+# Ignore environment variables
+.env
+
+# Ignore build outputs
+dist
+*.tsbuildinfo
+
+# Node modules
+node_modules
