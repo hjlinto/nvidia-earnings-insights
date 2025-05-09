@@ -9,10 +9,6 @@
     "label": "positive"
   },
   "strategicFocuses": [
-    "cloud",
-    "growth",
-    "inference",
-    "generative",
-    "blackwell"
+    "Based on the text, here are the top 5 strategic focuses or initiatives:\n\n1. **Accelerated Computing and AI Factories**: NVIDIA is shifting its focus from traditional data centers to accelerated computing and building a new type of data center, AI factories, to produce artificial intelligence.\n\n2. **Generative AI Training and Inference**: The company is seeing strong demand for generative AI training and inference on its Hopper platform, which propels Data Center growth. This initiative involves scaling AI models to perform complex tasks such as multimodal understanding, reasoning, and planning.\n\n3. **Blackwell Platform**: Blackwell is a new GPU architecture that delivers up to 4x faster training and 30x faster inference than the H100, enabling real-time generative AI on trillion-parameter large language models. The platform will be available in over 100 OEM and ODM systems at launch.\n\n4. **Spectrum-X and Omniverse Cloud APIs**: Spectrum-X is a new market for NVIDIA to bring large-scale AI to Ethernet-only data centers, while Omniverse Cloud APIs enable developers to integrate industrial digital twin and simulation technologies into their applications.\n\n5. **NVIDIA NIMs (Inference Microservices)**: NIMs is a new software offering that delivers enterprise-grade optimized generative AI to run on CUDA everywhere from the cloud to on-prem data centers, to RTX AI PCs through NVIDIA's expansive network of ecosystem partners.\n\nThese strategic focuses will drive growth and transformation for NVIDIA in the years to come."
   ]
 }

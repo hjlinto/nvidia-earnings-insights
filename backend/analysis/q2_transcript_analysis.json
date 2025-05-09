@@ -9,10 +9,6 @@
     "label": "positive"
   },
   "strategicFocuses": [
-    "generative",
-    "blackwell",
-    "growth",
-    "applications",
-    "non-gaap"
+    "Based on the text, the top 5 strategic focuses or initiatives of NVIDIA are:\n\n[{\"number\": 1, \"focus\": \"Expanding Data Center Revenue\", \"description\": \"NVIDIA's Data Center revenue grew 15% sequentially and 122% year-on-year, driven by strong demand for Hopper, GPU computing, and networking platforms.\"}, {\"number\": 2, \"focus\": \"Developing Next-Generation AI Models\", \"description\": \"NVIDIA is working on developing next-generation AI models that require 10 to 20 times more compute to train with significantly more data.\"}, {\"number\": 3, \"focus\": \"Improving Blackwell Production Yields and Ramp\", \"description\": \"NVIDIA executed a change to the Blackwell GPU mass to improve production yields, and expects to begin ramping Blackwell production in Q4.\"}, {\"number\": 4, \"focus\": \"Growing Enterprise AI Adoption\", \"description\": \"NVIDIA is working with most of the Fortune 100 companies on AI initiatives across industries and geographies, and plans to launch new Spectrum-X products every year to support demand for scaling compute clusters.\"}, {\"number\": 5, \"focus\": \"Expanding Omniverse and USD NIMs\", \"description\": \"NVIDIA announced new NVIDIA USD NIMs and connectors to open Omniverse to new industries and enable developers to incorporate generative AI copilots and agents into USD workloads.\"}]\n\nNote that these focuses are not generic terms, but rather specific initiatives and strategies that are relevant to NVIDIA's business."
   ]
 }

@@ -9,10 +9,6 @@
     "label": "positive"
   },
   "strategicFocuses": [
-    "blackwell",
-    "inference",
-    "non-gaap",
-    "hopper",
-    "cloud"
+    "Here are the top 5 strategic focuses or initiatives from the text in JSON format:\n\n```\n[\n    {\n        \"number\": 1,\n        \"focus\": \"Accelerated Computing and AI\",\n        \"description\": \"NVIDIA is focused on delivering incredible growth through accelerated computing and AI, with record revenue of $35.1 billion in Q3\"\n    },\n    {\n        \"number\": 2,\n        \"focus\": \"Blackwell Infrastructure\",\n        \"description\": \"NVIDIA is racing to scale supply to meet demand for Blackwell infrastructure, a customizable AI infrastructure with seven different types of NVIDIA-built chips and multiple networking options\"\n    },\n    {\n        \"number\": 3,\n        \"focus\": \"AI Initiatives\",\n        \"description\": \"NVIDIA's AI initiatives are gathering momentum as countries embrace accelerated computing for a new industrial revolution powered by AI, with Enterprise AI and industrial AI being key areas of focus\"\n    },\n    {\n        \"number\": 4,\n        \"focus\": \"Gaming and AI PCs\",\n        \"description\": \"NVIDIA is focused on delivering strong growth in Gaming revenue, with notebook, console, and desktop revenue all growing sequentially and year-on-year, driven by the popularity of GeForce RTX GPUs and devices\"\n    },\n    {\n        \"number\": 5,\n        \"focus\": \"Innovation and R&D\",\n        \"description\": \"NVIDIA is investing heavily in innovation and R&D to drive down the cost of compute and deliver new levels of inference performance and scalability, with breakthroughs in physical AI and foundation models being key areas of focus\"\n    }\n]\n```"
   ]
 }

@@ -9,10 +9,6 @@
     "label": "positive"
   },
   "strategicFocuses": [
-    "blackwell",
-    "inference",
-    "infrastructure",
-    "fiscal",
-    "non-gaap"
+    "Here are the top 5 strategic focuses or initiatives extracted from the text in JSON format:\n\n[\n{\nnumber: 1,\nfocus: \"Data Center Compute and Blackwell Ramp\",\ndescription: \"NVIDIA is focused on delivering record revenue growth in its Data Center business, driven by strong demand for its Blackwell architecture. The company expects to continue ramping up production of Blackwell systems to meet customer demand.\"\n},\n{\nnumber: 2,\nfocus: \"Artificial Intelligence (AI) and Deep Learning\",\ndescription: \"NVIDIA is investing heavily in AI research and development, with a focus on developing new AI models and improving the performance of its existing AI platforms. The company expects this investment to drive growth in its Data Center business.\"\n},\n{\nnumber: 3,\nfocus: \"Networking and Spectrum-X\",\ndescription: \"NVIDIA is focused on developing new networking technologies, including its Spectrum-X platform, which is designed to enhance Ethernet for AI computing. The company expects this technology to drive growth in its Data Center business.\"\n},\n{\nnumber: 4,\nfocus: \"Gaming and Autonomous Vehicles\",\ndescription: \"NVIDIA is investing in the gaming market through its GeForce RTX 50 Series desktop and laptop GPUs, as well as its autonomous vehicle platform, NVIDIA Drive. The company expects these initiatives to drive growth in its Gaming and Automotive businesses.\"\n},\n{\nnumber: 5,\nfocus: \"Cloud Computing and Infrastructure\",\ndescription: \"NVIDIA is focused on developing cloud computing infrastructure and platforms that support AI and deep learning applications. The company expects this investment to drive growth in its Data Center business and enable it to compete with other cloud computing providers.\"\n}\n]\n\nLet me know if you have any further questions!"
   ]
 }

@@ -14,6 +14,7 @@
     "cheerio": "^1.0.0",
     "compromise": "^14.14.4",
     "keyword-extractor": "^0.0.28",
+    "ollama": "^0.5.15",
     "sentiment": "^5.0.2"
   },
   "devDependencies": {
