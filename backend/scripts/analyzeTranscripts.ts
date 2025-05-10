@@ -61,10 +61,18 @@ async function analyzeStrategicFocuses(text: string) {
 
         // Build the analysis object
         const analysis = {
-            quarter,
-            managementSentiment,
-            qaSentiment,
-            strategicFocuses,
+        quarter,
+        managementSentiment: {
+            sentimentScore: managementSentiment.sentimentScore.toFixed(2),
+            label: managementSentiment.label,
+        },
+        qaSentiment: {
+            sentimentScore: qaSentiment.sentimentScore.toFixed(2),
+            label: qaSentiment.label,
+        },
+        prepared,
+        qa,
+        strategicFocuses,
         };
 
         // Save the analysis result to a new JSON file
