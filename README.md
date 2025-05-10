@@ -4,6 +4,12 @@ An AI-powered transcript analysis tool that processes NVIDIA's quarterly earning
 
 ---
 
+## Live Demo
+
+[Check out the deployed app on Vercel](https://nvidia-earnings-insights-eij0j59s7-hjlintos-projects.vercel.app/)
+
+---
+
 ## Features
 
 - **Sentiment Analysis** of prepared remarks and Q&A sessions  
